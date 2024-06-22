@@ -1,9 +1,10 @@
- Hey Human 👋 I'm Arjun Santhosh
-- 🌏 I’m based in India
-- 🌱 currently on a self taught journey to become a developer
-- 👨‍🎓 Graduated Bachelor of Computer Applications (BCA)
-- 📖 Pursuing Master of Computer Applications (MCA) 
-- ⚡ Fun fact: When I'm not in front of a computer screen. I'm probabily sleeping 💤
+<h1 align="center">Hey Human 👋,I'mI'm I'm I'm Arjun Santhosh</h1>
+- ⚡ Fun fact **When I'm not in front of a computer screen. I'm probabily sleeping 💤**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <!---
 aarjun-santhosh/aarjun-santhosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
