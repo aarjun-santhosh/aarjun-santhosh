@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Arjun Santhosh
+# Hi there 👋 I'm Arjun Santhosh
 🌏 I’m based in India <br><br>🌱 Currently on a self taught journey to become a developer <br><br>👨‍🎓 Graduated Bachelor of Computer Applications (BCA) <br><br>📖 Pursuing Master of Computer Applications (MCA) <br><br>⚡ Fun fact: When I'm not in front of a computer screen. I'm probabily sleeping 💤
 
 
